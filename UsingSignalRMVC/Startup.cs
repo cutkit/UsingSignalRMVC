@@ -16,6 +16,7 @@ namespace UsingSignalRMVC
             app.MapSignalR();
 =======
             app.MapSignalR();//aadd
+>>>>>>> parent of d61d844... jjj
         }
     }
 }
