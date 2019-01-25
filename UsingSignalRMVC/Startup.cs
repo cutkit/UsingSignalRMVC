@@ -11,12 +11,7 @@ namespace UsingSignalRMVC
     {
         public void Configuration(IAppBuilder app)
         {
-            // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=316888
-<<<<<<< HEAD
             app.MapSignalR();
-=======
-            app.MapSignalR();//aadd
->>>>>>> parent of d61d844... jjj
         }
     }
 }
